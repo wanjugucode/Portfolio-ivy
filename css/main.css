@@ -1,0 +1,16 @@
+.main-container{
+  font-family:'',sans-serif;
+  min-height: 490px;
+  text-align: center;
+  color:white;
+  color:teal;
+  padding-top: 300px;
+   background: url(https://ak.picdn.net/shutterstock/videos/5858666/thumb/1.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.title{
+	color:white;
+}
+
