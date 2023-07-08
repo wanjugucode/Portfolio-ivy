@@ -514,6 +514,18 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+@media (min-width: 300px) {
+  img{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    
+  }
+
+  .col-md-4  p{
+    text-align: center;
+  }
+}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
